@@ -19,7 +19,7 @@ namespace ConsoleApplication
             string LName = Console.ReadLine();
             // print all input 
             Console.WriteLine(string.Format(format, Name, Environment.NewLine, Name + LName));
-            // wait for next
+            // wait for next 1
             Console.Read();
         }
     }
